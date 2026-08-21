@@ -1,3 +1,6 @@
+[![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/ibrahimmahmud/))
+[![Email](https://shields.io)](mailto:ibrahimm7133@gmail.com)
+
 ## Hi there, I’m Ibrahim Mahmud 👋
 
 I am an aspiring data scientist based in Toronto, Canada. I am currently a 3rd year student at the University of Waterloo, studying Management Engineering with specializations in Computing, Artificial Intelligence, and Statistics.
